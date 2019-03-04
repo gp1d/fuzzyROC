@@ -1,0 +1,10 @@
+Package: fuzzyROC
+Type: Package
+Title: Fuzzy ROC visualization
+Version: 0.1-0
+Author: Giovanni Parmigiani
+Maintainer: Giovanni Parmigiani <gp@jimmy.harvard.edu>
+Description: The fuzzy ROC extends Receiver Operating Curve (ROC) visualization to the situation where some cases, falling in an intermediate region of the predictor, are not classified.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
